@@ -6,7 +6,9 @@
             <a href="https://www.linkedin.com/in/davi-monteiro-53b133326/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
               <a href = "d8119514@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>               
                 </div>
-  
+
+
+  ,
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviProgm&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviProgm&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
