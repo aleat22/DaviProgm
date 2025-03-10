@@ -14,7 +14,7 @@ Se precisar de mais alguma coisa, é só avisar!
 
 
 
-  * [DaviProgm/github-profile-3d-contrib](https://github.com/DaviProgm/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
+  * [DaviProgm/github-profile-3d-contrib](https://github.com/DaviProgm/github-profile-3d-contrib) 
 
 
 
