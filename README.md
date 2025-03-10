@@ -1,6 +1,10 @@
 ## Opa, visitante! Tudo bem? Me chamo Davi! Se você estiver interessado em saber mais sobre mim, clique nos links abaixo.
 Se precisar de mais alguma coisa, é só avisar!
 
+
+
+
+
   <div>
  
   <a href="https://www.instagram.com/odavimonteiro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,7 +13,8 @@ Se precisar de mais alguma coisa, é só avisar!
   
 
 <div>
-  
+
+  ![Status](./profile-3d-contrib/profile-night-green.svg)  
 </div>  
 
 
