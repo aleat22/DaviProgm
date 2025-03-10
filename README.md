@@ -14,7 +14,7 @@ Se precisar de mais alguma coisa, é só avisar!
 
 <div>
 
-  * [DaviProgm/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
+  * [DaviProgm/github-profile-3d-contrib](https://github.com/DaviProgm/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
 **</div>  
 
 
