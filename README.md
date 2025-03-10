@@ -12,10 +12,10 @@ Se precisar de mais alguma coisa, é só avisar!
   <a href="https://www.linkedin.com/in/davi-monteiro-53b133326/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-<div>
+
 
   * [DaviProgm/github-profile-3d-contrib](https://github.com/DaviProgm/github-profile-3d-contrib) - Create a 3D GitHub Contribution Calendar.
-**</div>  
+
 
 
 
