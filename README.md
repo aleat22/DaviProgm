@@ -13,8 +13,7 @@ Se precisar de mais alguma coisa, é só avisar!
   
 
 
-* [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
