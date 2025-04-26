@@ -17,7 +17,7 @@ Se precisar de mais alguma coisa, é só avisar!
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,discord,css,html,nextjs,react,tailwind,nodejs,vue,github,styledcomponents,vite,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,discord,css,html,nextjs,react,tailwind,nodejs,vue,github,styledcomponents,vite,mongodb,postgres,pgadmin" />
 </a>
   <br />
 
