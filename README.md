@@ -1,3 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Opa, visitante! Tudo bem? Me chamo Davi! Se você estiver interessado em saber mais sobre mim, clique nos links abaixo.
 Se precisar de mais alguma coisa, é só avisar!
 
@@ -17,7 +34,7 @@ Se precisar de mais alguma coisa, é só avisar!
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,discord,css,html,nextjs,react,tailwind,nodejs,vue,github,styledcomponents,vite,mongodb,docke,postgres,postgresadmin" />
+  <img src="https://skillicons.dev/icons?i=git,javascript,typescript,discord,css,html,nextjs,react,tailwind,nodejs,vue,github,styledcomponents,vite,mongodb,docke,postgres" />
 </a>
   <br />
 
